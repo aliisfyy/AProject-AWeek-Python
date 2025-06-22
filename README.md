@@ -1,6 +1,6 @@
 # 🐍 Python: Zero to Hero
 <h3>🎯 Goal :</h3> 
-  <p>This is my journey to master Python fundamentals through one mini-project per week, progressing from basics to advanced topics (and eventually AI).</p>
+  <p>Master Python fundamentals through one mini-project per week, progressing from basics to advanced topics (and eventually AI).</p>
 
 <h3>🗂️ Weekly Progress  </h3>
   <table>
