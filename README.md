@@ -11,7 +11,7 @@
     </tr>
     <tr align="center">
       <td> 1 </td>
-      <td> <a href="">Decode The Door</a> </td>
+      <td> <a href="https://github.com/aliisfyy/AProject-AWeek-Python/tree/main/week1-unlock-the-door%20">Unlock The Door</a> </td>
       <td> Variables, Loops, Conditionals </td>
     </tr>
     <tr align="center">
